@@ -58,7 +58,7 @@ When passing query parameters, do not use quotes around values (e.g., use stu001
 For production use, consider using a database instead of file-based storage for better scalability.
 
 ### Testing the API
-Once the server is running, navigate to /docs in your browser.
+Once the server is running, navigate to /docs route in your browser.
 You can interact with all endpoints there using the auto-generated Swagger UI.
 
 ### Author Note
