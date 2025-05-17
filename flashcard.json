@@ -1,0 +1,50 @@
+[
+  {
+    "student_id": "stu001",
+    "question": "What is Newton's Second Law?",
+    "answer": "Force equals mass times acceleration",
+    "subject": "Physics"
+  },
+  {
+    "student_id": "stu001",
+    "question": "What is algebra ?",
+    "answer": "sum of numbers in the equation is called algebra",
+    "subject": "Maths"
+  },
+  {
+    "student_id": "27",
+    "question": "what is newton's third law ?",
+    "answer": "For every action, There is an equal and opposite reaction.",
+    "subject": "Physics"
+  },
+  {
+    "student_id": "stu001",
+    "question": "What is photosynthesis?",
+    "answer": "A process used by plants to convert light into energy",
+    "subject": "Biology"
+  },
+  {
+    "student_id": "27",
+    "question": "What is photosynthesis?",
+    "answer": "A process used by plants to convert light into energy",
+    "subject": "Biology"
+  },
+  {
+    "student_id": "stu002",
+    "question": "What is Newton's Second Law?",
+    "answer": "Force equals mass times acceleration",
+    "subject": "Physics"
+  },
+  {
+    "student_id": "27",
+    "question": "What is mass?",
+    "answer": "weightage of a body",
+    "subject": "General"
+  },
+  {
+    "student_id": "27",
+    "question": "What is mass?",
+    "answer": "mass is a weightage of a body",
+    "subject": "General"
+  }
+]
